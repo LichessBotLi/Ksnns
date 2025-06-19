@@ -40,4 +40,4 @@ jobs:
           chmod +x ./engines/stockfish
 
       - name: Running bot
-        run: python user_interface.py --tournament 7m1DC2FW --team bharat-royals
+        run: python user_interface.py --tournament kvHD4Epr --team bharat-royals
